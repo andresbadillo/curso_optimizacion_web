@@ -15,4 +15,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping
-        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6436b7624e53010077c54ae4
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6436be194e5301039ec54a2d
